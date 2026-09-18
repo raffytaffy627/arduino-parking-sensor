@@ -8,7 +8,9 @@ The end result is a working parking sensor: an ultrasonic sensor measures distan
 ![Wiring photo](IMG_7310.jpeg)
 ![Wiring photo](IMG_7311.jpeg)
 
-https://github.com/user-attachments/assets/ba54b0a9-bec5-4bf4-80ef-f09afa94acf0
+
+
+https://github.com/user-attachments/assets/332bfb4f-9fb1-409b-be44-55660f10aae1
 
 
 
