@@ -4,9 +4,9 @@ This was my first ever Arduino project, and honestly my first time building anyt
 
 The end result is a working parking sensor: an ultrasonic sensor measures distance, three LEDs (green/yellow/red) show how close something is, a buzzer beeps faster the closer you get, and a 4-digit display shows the live distance in centimeters.
 
-![Wiring photo](IMG_7309.jpeg)
-![Wiring photo](IMG_7310.jpeg)
-![Wiring photo](IMG_7311.jpeg)
+![Wiring photo](media/IMG_7309.jpeg)
+![Wiring photo](media/IMG_7310.jpeg)
+![Wiring photo](media/IMG_7311.jpeg)
 
 
 
