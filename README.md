@@ -8,7 +8,7 @@ The end result is a working parking sensor: an ultrasonic sensor measures distan
 ![Wiring photo](IMG_7310.jpeg)
 ![Wiring photo](IMG_7311.jpeg)
 
-<video src="288C748B-8B2B-4BF9-A0BC-14A4783A1C43.mp4" controls></video>
+<video src="https://github.com/raffytaffy627/arduino-parking-sensor/raw/main/288C748B-8B2B-4BF9-A0BC-14A4783A1C43.mp4" controls></video>
 
 ## What it does
 - Measures distance using an ultrasonic sensor (same tech bats use, sends out a sound pulse and times how long it takes to bounce back)
